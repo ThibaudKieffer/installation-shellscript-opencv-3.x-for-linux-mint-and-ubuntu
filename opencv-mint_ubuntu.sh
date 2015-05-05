@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# OpenCV 3.x - installing script For Linux Ubuntu 14.04.2 LTS (Trusty Tahr) and Mint 17.1 (Rebecca)
+# OpenCV 3.x - installation script For Linux Ubuntu 14.04.2 LTS (Trusty Tahr) and Mint 17.1 (Rebecca)
 # http://opencv.org/
 
 # If the latest version > opencv-3.0.0-rc1 you must change the following variables
