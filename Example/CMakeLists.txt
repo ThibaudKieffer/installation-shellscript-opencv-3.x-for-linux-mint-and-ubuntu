@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( image-conversion )
+find_package( OpenCV REQUIRED )
+add_executable( image-conversion image-conversion.cpp )
+target_link_libraries( image-conversion  ${OpenCV_LIBS} )
