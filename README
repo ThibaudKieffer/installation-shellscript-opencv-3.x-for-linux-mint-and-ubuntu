@@ -14,7 +14,7 @@ sudo make
 
 ./image-conversion lena.jpg lena.png
 
-For run your own program you should just modify CMakeLists.txt and replace image-conversion by the program's name.
+To run your own program you should just modify CMakeLists.txt and replace image-conversion by the program's name.
 
 
 
