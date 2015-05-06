@@ -1,4 +1,4 @@
-#This script works on Linux Ubuntu 14.04.2 LTS (Trusty Tahr) and Mint 17.1 (Rebecca) and probably other version and OS.
+This script works on Linux Ubuntu 14.04.2 LTS (Trusty Tahr) and Mint 17.1 (Rebecca) and probably other version and OS.
 
 I wrote this script because it's quite long and difficult to install OpenCV correctly.
 
